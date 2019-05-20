@@ -2,6 +2,7 @@
 
 #include "formatter_ex.h"
 #include "solver.h"
+#include "math.h"
 
 int main()
 {
